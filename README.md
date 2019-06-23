@@ -1,5 +1,10 @@
 # BingDailyWallpaper
 
+> [![Code Size](https://img.shields.io/github/languages/code-size/iTanken/BingDailyWallpaper.svg?style=flat-square&color=9cf)](https://github.com/iTanken/BingDailyWallpaper)
+> [![Releases](https://img.shields.io/github/release/iTanken/BingDailyWallpaper.svg?style=flat-square)](https://github.com/iTanken/BingDailyWallpaper/releases)
+> [![Downloads](https://img.shields.io/github/downloads/iTanken/BingDailyWallpaper/total.svg?style=flat-square)](https://github.com/iTanken/BingDailyWallpaper/releases)
+> [![HitCount](https://hits.b3log.org/iTanken/BingDailyWallpaper.svg)](https://github.com/iTanken/BingDailyWallpaper "Hits")
+
 🖼 全新必应每日桌面壁纸设置工具，支持 Windows 及 macOS。自动保存图片，一键设置壁纸。**Write once, run anywhere！**
 ![必应每日桌面壁纸设置工具](https://user-images.githubusercontent.com/23544702/59973479-066dad80-95d3-11e9-8602-5f58efd27d4c.png)
 
