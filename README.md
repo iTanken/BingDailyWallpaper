@@ -1,9 +1,23 @@
-# BingDailyWallpaper
-
-> [![Code Size](https://img.shields.io/github/languages/code-size/iTanken/BingDailyWallpaper.svg?style=flat-square&color=9cf)](https://github.com/iTanken/BingDailyWallpaper)
-> [![Releases](https://img.shields.io/github/release/iTanken/BingDailyWallpaper.svg?style=flat-square)](https://github.com/iTanken/BingDailyWallpaper/releases)
-> [![Downloads](https://img.shields.io/github/downloads/iTanken/BingDailyWallpaper/total.svg?style=flat-square)](https://github.com/iTanken/BingDailyWallpaper/releases)
-> [![HitCount](https://hits.b3log.org/iTanken/BingDailyWallpaper.svg)](https://github.com/iTanken/BingDailyWallpaper "Hits")
+<p align = "center">
+<img alt="BingDailyWallpaper" src="https://avatars3.githubusercontent.com/u/23544702?s=128&v=1">
+<br><br>
+必应每日桌面壁纸设置工具
+<br><br>
+<a title="Code Size" target="_blank" href="https://github.com/iTanken/BingDailyWallpaper"><img src="https://img.shields.io/github/languages/code-size/iTanken/BingDailyWallpaper.svg?style=flat-square"></a>
+<a href="https://github.com/iTanken/BingDailyWallpaper/releases"><img src="https://img.shields.io/github/downloads/iTanken/BingDailyWallpaper/total.svg?style=flat-square"></a>
+<a title="Releases" target="_blank" href="https://github.com/iTanken/BingDailyWallpaper/releases"><img src="https://img.shields.io/github/release/iTanken/BingDailyWallpaper.svg?style=flat-square"></a>
+<a title="Release Date" target="_blank" href="https://github.com/iTanken/BingDailyWallpaper/releases"><img src="https://img.shields.io/github/release-date/iTanken/BingDailyWallpaper.svg?style=flat-square&color=99CCFF"></a>
+<br>
+<a title="GitHub Commits" target="_blank" href="https://github.com/iTanken/BingDailyWallpaper/commits/master"><img src="https://img.shields.io/github/commit-activity/m/iTanken/BingDailyWallpaper.svg?style=flat-square"></a>
+<a title="Last Commit" target="_blank" href="https://github.com/iTanken/BingDailyWallpaper/commits/master"><img src="https://img.shields.io/github/last-commit/iTanken/BingDailyWallpaper.svg?style=flat-square&color=FF9900"></a>
+<a title="GitHub Pull Requests" target="_blank" href="https://github.com/iTanken/BingDailyWallpaper/pulls"><img src="https://img.shields.io/github/issues-pr-closed/iTanken/BingDailyWallpaper.svg?style=flat-square&color=FF9966"></a>
+<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/iTanken/BingDailyWallpaper.svg"></a>
+<br><br>
+<a title="GitHub Watchers" target="_blank" href="https://github.com/iTanken/BingDailyWallpaper/watchers"><img src="https://img.shields.io/github/watchers/iTanken/BingDailyWallpaper.svg?label=Watchers&style=social"></a>&nbsp;&nbsp;
+<a title="GitHub Stars" target="_blank" href="https://github.com/iTanken/BingDailyWallpaper/stargazers"><img src="https://img.shields.io/github/stars/iTanken/BingDailyWallpaper.svg?label=Stars&style=social"></a>&nbsp;&nbsp;
+<a title="GitHub Forks" target="_blank" href="https://github.com/iTanken/BingDailyWallpaper/network/members"><img src="https://img.shields.io/github/forks/iTanken/BingDailyWallpaper.svg?label=Forks&style=social"></a>&nbsp;&nbsp;
+<a title="Author GitHub Followers" target="_blank" href="https://github.com/iTanken"><img src="https://img.shields.io/github/followers/iTanken.svg?label=Followers&style=social"></a>
+</p>
 
 🖼 全新必应每日桌面壁纸设置工具，支持 Windows 及 macOS。自动保存图片，一键设置壁纸。**Write once, run anywhere！**
 ![必应每日桌面壁纸设置工具](https://user-images.githubusercontent.com/23544702/59973479-066dad80-95d3-11e9-8602-5f58efd27d4c.png)
