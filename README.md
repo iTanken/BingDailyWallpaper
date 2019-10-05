@@ -1,9 +1,7 @@
 <p align = "center">
 <img alt="BingDailyWallpaper" src="https://avatars3.githubusercontent.com/u/23544702?s=128&v=1">
 <br><br>
-
-[必应每日桌面壁纸设置工具](https://zixizixi.cn/windows-mac-bing-daily-wallpaper-tool "Java 版必应每日桌面壁纸设置工具，支持 Windows 和 macOS - 子兮子兮")
-
+<a href="https://zixizixi.cn/windows-mac-bing-daily-wallpaper-tool" target="_blank" title=""Java 版必应每日桌面壁纸设置工具，支持 Windows 和 macOS - 子兮子兮"">必应每日桌面壁纸设置工具</a>
 <br><br>
 <a title="Code Size" target="_blank" href="https://github.com/iTanken/BingDailyWallpaper"><img src="https://img.shields.io/github/languages/code-size/iTanken/BingDailyWallpaper.svg?style=flat-square"></a>
 <a href="https://github.com/iTanken/BingDailyWallpaper/releases"><img src="https://img.shields.io/github/downloads/iTanken/BingDailyWallpaper/total.svg?style=flat-square"></a>
